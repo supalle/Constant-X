@@ -14,13 +14,19 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <h1>Constant-X can help you display string constant values where they are used</h1>
-    <h2>常量助手</h2>
-    <h3>常量字符串占位显示</h3>
-    <p>原理是使用IDEA的代码块展开和折叠操作</p>
-    <p>默认打开文件时会显示字符串常量的值</p>
-    <p>如果没有显示，可以配合快捷键：`Ctrl + -` 、`Ctrl + +` </p>
-    <p>或者 `Ctrl + Shift + -` 、`Ctrl + Shift + +` 来配合显示/隐藏操作</p>
+    <h2>Constant-X can help you display string constant values where they are used</h2>
+    <p>You can quickly switch the display status of constant values through shortcut keys.</p>
+    <h3>English:</h3>
+    <ul>
+        <li>The principle is to use IDEA's code block unfolding and folding operations.</li>
+        <li>By default, when opening a file, the value of a string constant will be displayed.</li>
+        <li>If it is not displayed, you can use shortcut keys: `Ctrl -` 、`Ctrl +`.</li>
+    </ul>
+    <h3>中文：</h3>
+    <p>原理是使用IDEA的代码块展开和折叠操作。</p>
+    <p>默认打开文件时会显示字符串常量的值。</p>
+    <p>如果没有显示，可以配合快捷键：`Ctrl -` 、`Ctrl +`。</p>
+    <p>或者 `Ctrl Shift -` 、`Ctrl Shift +` 来配合显示/隐藏操作。</p>
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.
